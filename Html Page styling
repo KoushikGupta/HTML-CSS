@@ -1,0 +1,61 @@
+*{
+	font-family: Montserrat;
+}
+
+body{
+	background: grey;
+}
+
+header {
+        background:grey;
+        padding:50px;
+        overflow: hidden;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	color: black;
+	margin-left: 250px;
+}
+
+img{
+	width: 4%;
+	float:left;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: white;
+}
+
+section{
+	
+    margin-top: 4%;
+}
+
+h1{
+	text-align: center;
+}
+
+hr{
+	width: 20%
+}
+
+p{
+	text-align: center;
+	margin-right: 2%;
+}
+
+footer{
+	margin-top: 12%;
+	text-align: center;
+}
